@@ -1,0 +1,30 @@
+{
+  "meta_data": [
+    { "style": "Masterpiece, score_9, best quality\nArt style: Anime illustration" },
+    { "style": "Art style: Editorial fashion photography" },
+    { "style": "Style: Watercolor painting, soft desaturated colors" },
+    { "style": "Art style: DC Comics" },
+    { "style": "Art style: Classic fantasy illustration in the style of Boris Valejo" },
+    { "style": "Style: studio Ghibli" },
+    { 
+      "__comment__": "This style can still result in colours",
+      "style": "Art style: black and white manga" 
+    }
+  ],
+  "Character": [
+    { "Name": "Doug", "Description": "Middle-aged man, blue overalls, straw hat, rubber boots" },
+    { "Name": "Frank", "Description": "20 year old Russian male, mohawk haircut, green eyes, black t-shirt, army boots" },
+    { "Name": "Arnold", "Description": "30 year old African-American male, short dreadlocks, goatee" },
+    { "Name": "Diane", "Description": "25 year old Swedish female, make-up, long blond hair, denim shorts" },
+    { "Name": "Abigail", "Description": "35 year old Canadian woman, shoulder-length brunette hair, white tank-top" },
+    { "Name": "Ming", "Description": "20 year old Asian female, shoulder-length straight dark hair, pink t-shirt" }
+  ],
+  "prop": [
+    { "item": "bottle of wine" },
+    { "item": "jug of apple cider" },
+    { "item": "bowl of cherries" },
+    { "item": "hammer" },
+    { "item": "Nintendo Switch" },
+    { "item": "jar of pickles" }
+  ]
+}
